@@ -1,0 +1,28 @@
+.container {
+  max-width: 1060px;
+  padding: 10px 80px 10px 80px;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+header {
+  background-color: #bad3cb;
+}
+main {
+  background-color: #f1c38a;
+}
+aside {
+  background-color: aliceblue;
+  border-left: solid 5px black;
+  float: right;
+  max-width: 300px;
+  padding: 10px;
+  margin-left: 20px;
+}
+img {
+  width: 293px;
+  height: 180px;
+}
+.img-section {
+  margin-top: 10px;
+  display: inline-block;
+}
